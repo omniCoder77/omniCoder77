@@ -1,5 +1,24 @@
 # 💫 About Me:
-🌱 I’m currently learning<br><br>    gRPC, RSocket, and reactive systems for high-performance backends<br><br>    ScyllaDB/Cassandra for scalable data storage<br><br>    Hexagonal Architecture and DDD patterns<br><br>💻 I’m currently working on<br><br>    A real-time messaging app with Spring Boot, WebSockets, and Kafka<br><br>    Optimizing my e-commerce backend project with CQRS and Kotlin coroutines<br><br>🤝 I’m looking to collaborate on<br><br>    Open-source projects in Kotlin/Java (especially backend or distributed systems)<br><br>    Innovative microservices or event-driven architectures<br><br>🛠 I’m looking for help with<br><br>    Advanced Kafka stream processing and ScyllaDB optimizations<br><br>    Best practices for gRPC load balancing and inter-service communication<br><br>💬 Ask me about<br><br>    Spring Boot tricks, JWT auth, or async programming in Kotlin<br><br>    How to structure monoliths → microservices without losing sanity
+🌱 I’m currently learning<br><br>    
+* gRPC, RSocket, and reactive systems for high-performance backends    
+* ScyllaDB/Cassandra for scalable data storage    
+* Hexagonal Architecture and DDD patterns
+
+💻 I’m currently working on    
+* A real-time messaging app with Spring Boot, WebSockets, and Kafka    
+* Optimizing my e-commerce backend project with CQRS and Kotlin coroutines    
+
+🤝 I’m looking to collaborate on    
+* Open-source projects in Kotlin/Java (especially backend or distributed systems)    
+* Innovative microservices or event-driven architectures    
+
+🛠 I’m looking for help with    
+* Advanced Kafka stream processing and ScyllaDB optimizations    
+* Best practices for gRPC load balancing and inter-service communication    
+
+💬 Ask me about    
+* Spring Boot tricks, JWT auth, or async programming in Kotlin    
+* How to structure monoliths → microservices without losing sanity
 
 
 ## 🌐 Socials:
