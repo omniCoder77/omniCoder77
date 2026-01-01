@@ -13,7 +13,7 @@ I believe in not just using tools, but understanding and improving them—eviden
 I actively contribute to the technologies I rely on to build scalable systems.
 
 *   **Apache Cassandra:** Improved security configuration flexibility by altering cipher suites to auto-negotiate.
-    *   Start of the contribution: [apache/cassandra#4499](https://github.com/apache/cassandra/pull/4499)
+    *   Commit: [Commit](https://github.com/apache/cassandra/commit/9d89b47c68a6b476135c04b633e7d080a8ebe65f)
 
 ---
 
