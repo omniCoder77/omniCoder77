@@ -20,8 +20,8 @@ Addresses: [Commit](https://github.com/apache/cassandra/commit/9d89b47c68a6b4761
 - **Fixed Broken "Getting Started" Link** – Fixed `Getting Started` hyperlink.
   [Commit](https://github.com/apache/cassandra/commit/5101d76b21234d629cfc27b8ed4320216fc917fc) | [PR #4550](https://github.com/apache/cassandra/pull/4550) | [CASSANDRA-21121](https://issues.apache.org/jira/browse/CASSANDRA-21121)
 
-- **Implemented Guardrail for Unprepared Statements** (review in progress) – Developed a new Guardrail configuration to detect, warn, or reject queries that bypass the prepared statement cache (cache misses). **Impact:** Enhances cluster stability and performance by mitigating the overhead caused by ad-hoc query patterns and enforcing client-side best practices.
-  Pending commit | [PR #4596](https://github.com/apache/cassandra/pull/4596) | [CASSANDRA-21139](https://issues.apache.org/jira/browse/CASSANDRA-21139)
+- **Implemented Guardrail for Unprepared Statements** – Developed a new Guardrail configuration to detect, warn, or reject queries that bypass the prepared statement cache (cache misses). **Impact:** Enhances cluster stability and performance by mitigating the overhead caused by ad-hoc query patterns and enforcing client-side best practices.
+  [Commit](https://github.com/apache/cassandra/commit/eabd2a27f5555a50cba6dc8b74d1f246a91081c0) | [PR #4596](https://github.com/apache/cassandra/pull/4596) | [CASSANDRA-21139](https://issues.apache.org/jira/browse/CASSANDRA-21139)
 
 - **Memory optimization**(review under progress) - Fixed unnecessary string instance creation while MBean creation.
   Pending Commit | [PR#4548](https://github.com/apache/cassandra/pull/4548) |  [CASSANDRA-20446](https://issues.apache.org/jira/browse/CASSANDRA-20446)
